@@ -1,0 +1,44 @@
+body {
+  padding-left: 5%;
+  padding-top: 2%;
+  background-color: white;
+}
+
+h1 {
+  font-family:'Roboto', sans-serif;
+  color: grey;
+}
+
+textarea {
+  font-family: 'Roboto', sans-serif;;
+  font-size: 20px;
+  background-color: white;
+  border: none;
+  color: black;
+
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+button {
+  border-radius: 8px;
+  color: white;
+  background-color: #303030;
+  border: none;
+  font-size: 16px;
+  height: 30px;
+
+}
+
+button:focus {
+    outline: none;
+}
+
+p
+{
+  margin-top: 40%;
+  color: black;
+  font-family:'Roboto', sans-serif;
+}
