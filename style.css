@@ -5,16 +5,18 @@ body {
 }
 
 h1 {
-  font-family:'Roboto', sans-serif;
+  font-family: 'Nunito', sans-serif;
   color: grey;
+
 }
 
 textarea {
-  font-family: 'Roboto', sans-serif;;
+  font-family: 'Nunito', sans-serif;
   font-size: 20px;
   background-color: white;
   border: none;
   color: black;
+  margin-top: 6%
 
 }
 
@@ -30,6 +32,7 @@ button {
   font-size: 16px;
   height: 30px;
 
+
 }
 
 button:focus {
@@ -40,5 +43,9 @@ p
 {
   margin-top: 40%;
   color: black;
-  font-family:'Roboto', sans-serif;
+  font-family: 'Nunito', sans-serif;
+}
+
+.btns2 {
+  margin-top: 2%;
 }
